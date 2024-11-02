@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution on GitHub](https://github.com/DocForLoop/blog-preview-card-main.git)
+- Live Site URL: [live site on GitHub Pages](https://docforloop.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -37,7 +37,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 
